@@ -20,7 +20,7 @@
 
 
 
-//Задание №1
+//Task 1
 void Task1()
 {
 	short int firstVar = 32'767;
@@ -42,7 +42,7 @@ void Task1()
 	
 }
 
-//Задание №2
+//Task 2
 enum Cell
 {
 	O,
@@ -50,7 +50,7 @@ enum Cell
 	NONE
 };
 
-//Задание №3,4
+//Task 3,4
 
 struct ticTacToeGame {
 
@@ -64,7 +64,7 @@ struct ticTacToeGame {
 };
 
 
-//Задание №5
+//Task 5
 
 union myVariantType
 {
